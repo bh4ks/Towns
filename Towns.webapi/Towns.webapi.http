@@ -1,0 +1,6 @@
+@Towns.webapi_HostAddress = http://localhost:5207
+
+GET {{Towns.webapi_HostAddress}}/Towns/
+Accept: application/json
+
+###
